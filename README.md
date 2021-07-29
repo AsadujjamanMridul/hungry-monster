@@ -2,15 +2,19 @@
 
 <br/>
 
-`Search`
+`Search For Food`
 <p align="center">
   <img src="screenshots/2.png" width="75%" align="center"/>
 </p>
+
+<br/>
 
 `Meal Detail`
 <p align="center">
   <img src="screenshots/3.png" width="75%" align="center"/>
 </p>
+
+<br/>
 
 `Not Found Page`
 <p align="center">
